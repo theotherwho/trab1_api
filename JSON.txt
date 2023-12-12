@@ -1,0 +1,55 @@
+Olá professor Rafael!
+Nós havíamos nos encontrado "pelo corredor" e falamos por alto a respeito de um conversa sobre a minha próxima matrícula a ser realizada no curso de ADS. Venho de ingresso com aproveitamento grande de cadeiras egresso de outra Universidade e gostaria de uma orientação para realizar o encaminhamento do restante do curso.
+Estou trabalhando no formato home office, tenho flexibilidade para agendarmos uma reunião para conversarmos, na medida da disponibilidade da sua agenda.
+
+Um abraço
+Cristiano
+
+{
+  "DescTipoProcesso": "Criminal",
+}
+
+{
+  "DescTipoProcesso": "Fiscal",
+}
+
+{
+  "DescTipoProcesso": "Execução Pública",
+}
+
+
+{
+  "DescMovimento": "Carga com o Advogado",
+  "numeroprocesso" : 1
+}
+{
+  "DescMovimento": "Carga com o Demonio",
+  "numeroprocesso" : 2
+}
+{
+  "DescMovimento": "Carga com o Anjo",
+  "numeroprocesso" : 3
+}
+
+
+
+
+
+
+{
+	"TipoProcesso": 1,
+	"Autor": "Ministério Publico",
+	"Reu": "José da Silva"
+}
+
+{
+	"TipoProcesso": 2,
+	"Autor": "Joao De Deus",
+	"Reu": "José da Silva"
+}
+
+{
+	"TipoProcesso": 2,
+	"Autor": "Estado do RGS",
+	"Reu": "José da Silva"
+}
